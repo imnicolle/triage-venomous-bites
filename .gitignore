@@ -1,0 +1,31 @@
+# Dados (não versionar - arquivos grandes)
+data/raw/*
+!data/raw/README.md
+data/processed/*
+!data/processed/.gitkeep
+
+# Modelos treinados (podem ser grandes)
+models/*.pkl
+models/*.joblib
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Ambiente
+.env
+
+# SO
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
