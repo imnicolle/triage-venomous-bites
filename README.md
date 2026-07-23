@@ -49,7 +49,17 @@ Avaliação no conjunto de teste (20%, nunca visto pelo modelo): 99,71% de acur�
 
 ## Divisão das contribuições
 
-[a adicionar]
+Nicolle Rillary Santana Silva:
+- Identificação do problema;
+- Compreensão dos dados.
+
+Edno Bezerra Nascimento Junior:
+- Análise exploratória dos dados;
+- Pré-processamento.
+
+Wagner Kauê Martins dos Santos:
+- Modelagem dos agentes;
+- Avaliação e discussão.
 
 
 ## Vídeo
@@ -64,4 +74,13 @@ Uso 1:
 - Finalidade:
     - Consulta de informações sobre o funcionamento de funções e parâmetros das bibliotecas como sklearn e matplotlib.
     - Revisão de conformidade com os critérios do professor para as seções 6 e 7.
+- Verificação: O funcionamento foi conferido a partir da execução real do notebook e de checagens adicionais feitas sobre o dataset.
+
+Uso 2:
+
+- Ferramenta utilizada: **Claude**.
+- Finalidade:
+    - Auxilio na criação de tabelas e graficos pertinemtes ao tema na análise exploratoria.
+    - Planejamento das etapas de pré-processamento dos dados.
+    - Revisão de conformidade com os critérios do professor para as seções 3 e 5.
 - Verificação: O funcionamento foi conferido a partir da execução real do notebook e de checagens adicionais feitas sobre o dataset.
