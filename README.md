@@ -62,9 +62,8 @@ Wagner Kauê Martins dos Santos:
 - Avaliação e discussão.
 
 
-## Vídeo
-
-[a adicionar]
+## [Vídeo](https://www.youtube.com/watch?v=mMmykM8TT5E)
+https://www.youtube.com/watch?v=mMmykM8TT5E
 
 ## Uso de ferramentas de Inteligência Artificial
 
